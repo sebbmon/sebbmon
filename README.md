@@ -64,6 +64,3 @@ Technology stack
 </p>
 
 </div>
-
----
-
