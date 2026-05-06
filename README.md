@@ -63,4 +63,6 @@ Technology stack
 <a href="https://www.linkedin.com/in/sebastian-mondel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" /></a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebbmon)
+
 </div>
