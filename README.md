@@ -56,13 +56,13 @@ Technology stack
   </tr>
 </table>
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sebbmon&layout=compact)
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sebbmon&label=Profile%20views&color=0e75b6&style=flat" alt="sebbmon"/></p>
 
 <h3 align="center">Get in touch:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sebastian-mondel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" /></a>
 </p>
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sebbmon&layout=compact)
 
 </div>
