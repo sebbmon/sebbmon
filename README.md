@@ -23,24 +23,6 @@ FullStack Developer focused on building practical web applications with clean ar
 
 ---
 
-### 📊 GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sebbmon&layout=compact" />
-</p>
-
----
-
-### 📫 Contact
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sebastian-mondel/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-</p>
-
----
-
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sebbmon&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
